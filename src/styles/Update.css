@@ -1,0 +1,107 @@
+.update-page {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+img#ppp {
+    height: 23vh;
+    min-height: 169px;
+}
+
+.user-photo {
+    padding: 2vh;
+}
+.form-row.update-row {
+    margin-bottom: 3vh;
+}
+
+p#add-photo {
+    line-height: 0;
+    opacity: 0.4;
+    font-size: .9rem;
+    text-transform: uppercase;
+}
+
+h1#fname {
+    line-height: 0;
+}
+
+h1#lname {
+    line-height: 2rem;
+}
+
+h6#email {
+    line-height: 0;
+}
+
+button#resend-btn {
+    font-size: .7rem;
+    border-radius: 100px;
+    background-color: #7E7EF1;
+    height: 2.5em;
+    width: 14em;
+    border: none;
+    height: 4em;
+    padding: 0.5em;
+    margin-top: 5vh;
+}
+
+.title-detail {
+    padding-left: 1em;
+}
+
+h2#details-title {
+    text-align: left;
+    font-size: 1.7rem;
+    margin-bottom: 0.2em;
+}
+
+.active-switch {
+    padding-bottom: 1.7em;
+    display: flex;
+    padding: 1rem;
+}
+
+
+p#active {
+    position: relative;
+    top: -1vw;
+    left: 0em;
+    font-size: 1.4vw;
+    opacity: .7;
+}
+
+span#a-status {
+    font-weight: 700;
+}
+
+
+#lastn {
+    margin-bottom: 5vh;
+}
+
+.save-btn {
+    font-size: .7rem;
+    border-radius: 100px;
+    background-color: #44A0D3;
+    height: 2.5em;
+    width: 14em;
+    border: none;
+    height: 4em;
+    padding: 0.5em;
+}
+
+.info-update {
+    margin-bottom: 9vh;
+}
+
+.gear {
+    height: 3.3vw;
+    position: relative;
+    top: 5px;
+}
+
+.inactive {
+    content-visibility: hidden;
+}

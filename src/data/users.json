@@ -1,0 +1,36 @@
+{
+  "u": [
+    {
+      "id": 1,
+      "firstName": "Margarette",
+      "lastName": "Jones",
+      "email": "margarette.jones@testtask.com",
+      "status": false,
+      "role": "User"
+    },
+    {
+      "id": 4,
+      "firstName": "Samuel",
+      "lastName": "Jackson",
+      "email": "samuel.jackson@testtask.com",
+      "status": false,
+      "role": "User"
+    },
+    {
+      "id": 290,
+      "firstName": "aam",
+      "lastName": "Salus",
+      "email": "fasfasfa",
+      "status": false,
+      "role": "admin"
+    },
+    {
+      "id": 556,
+      "firstName": "Margarette",
+      "lastName": "Jones",
+      "email": "margarette.jones@testtask.com",
+      "status": true,
+      "role": "User"
+    }
+  ]
+}
